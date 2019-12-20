@@ -1,8 +1,184 @@
 {
-  "posts": [
+  "catalogs": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Menú del Día",
+      "catalogType": "2",
+      "itemQuantity": 12,
+      "description": "Catalogo de Almuerzo",
+      "specialRequestCombo": true,
+      "specialRequestProduct": false,
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Menú POS",
+      "catalogType": "2",
+      "itemQuantity": 50,
+      "description": "Catalogo de Almuerzo",
+      "specialRequestCombo": true,
+      "specialRequestProduct": false,
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Menú a la Carta",
+      "catalogType": "3",
+      "itemQuantity": 18,
+      "description": "Catalogo de Almuerzo",
+      "specialRequestCombo": true,
+      "specialRequestProduct": false,
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Menú Desayuno",
+      "catalogType": "1",
+      "itemQuantity": 122,
+      "description": "Catalogo de Almuerzo",
+      "specialRequestCombo": true,
+      "specialRequestProduct": false,
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Menú Cena",
+      "catalogType": "3",
+      "itemQuantity": 10,
+      "description": "Catalogo de Almuerzo",
+      "specialRequestCombo": true,
+      "specialRequestProduct": false,
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
+      ]
     }
   ],
   "profile": {
