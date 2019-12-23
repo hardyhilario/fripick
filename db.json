@@ -179,6 +179,42 @@
           "itemType": "combo"
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Menú Cena s",
+      "catalogType": "Cena",
+      "itemQuantity": 10,
+      "description": "Catalogo de Almuerzo",
+      "specialRequestCombo": true,
+      "specialRequestProduct": false,
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
+      ]
     }
   ],
   "profile": {
