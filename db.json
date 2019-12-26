@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Menú del Día",
-      "catalogType": "Almuerzo",
+      "catalogType": 0,
       "itemQuantity": 12,
       "description": "Catalogo de Almuerzo1",
       "specialRequestCombo": true,
@@ -39,7 +39,7 @@
     {
       "id": 2,
       "name": "Menú POS",
-      "catalogType": "Desayuno",
+      "catalogType": 1,
       "itemQuantity": 50,
       "description": "Catalogo de Almuerzo2",
       "specialRequestCombo": true,
@@ -75,7 +75,7 @@
     {
       "id": 3,
       "name": "Menú a la Carta",
-      "catalogType": "Cena",
+      "catalogType": 2,
       "itemQuantity": 18,
       "description": "Catalogo de Almuerzo3",
       "specialRequestCombo": true,
@@ -111,7 +111,7 @@
     {
       "id": 4,
       "name": "Menú Desayuno",
-      "catalogType": "Almuerzo",
+      "catalogType": 1,
       "itemQuantity": 122,
       "description": "Catalogo de Almuerzo4",
       "specialRequestCombo": true,
@@ -147,7 +147,7 @@
     {
       "id": 5,
       "name": "Menú Cena",
-      "catalogType": "Cena",
+      "catalogType": 2,
       "itemQuantity": 10,
       "description": "Catalogo de Almuerzo5",
       "specialRequestCombo": true,
@@ -183,7 +183,7 @@
     {
       "id": 6,
       "name": "Menú Cena s",
-      "catalogType": "Cena",
+      "catalogType": 2,
       "itemQuantity": 10,
       "description": "Catalogo de Almuerzo6",
       "specialRequestCombo": true,
