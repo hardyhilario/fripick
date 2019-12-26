@@ -217,7 +217,7 @@
       ]
     }
   ],
-  "catalogType": [
+  "catalogsTypes": [
     {
     "id": 0,
     "name": "Desayuno"
