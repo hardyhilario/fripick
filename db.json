@@ -5,7 +5,7 @@
       "name": "Menú del Día",
       "catalogType": "Almuerzo",
       "itemQuantity": 12,
-      "description": "Catalogo de Almuerzo",
+      "description": "Catalogo de Almuerzo1",
       "specialRequestCombo": true,
       "specialRequestProduct": false,
       "items": [
@@ -41,7 +41,7 @@
       "name": "Menú POS",
       "catalogType": "Desayuno",
       "itemQuantity": 50,
-      "description": "Catalogo de Almuerzo",
+      "description": "Catalogo de Almuerzo2",
       "specialRequestCombo": true,
       "specialRequestProduct": false,
       "items": [
@@ -77,7 +77,7 @@
       "name": "Menú a la Carta",
       "catalogType": "Cena",
       "itemQuantity": 18,
-      "description": "Catalogo de Almuerzo",
+      "description": "Catalogo de Almuerzo3",
       "specialRequestCombo": true,
       "specialRequestProduct": false,
       "items": [
@@ -113,7 +113,7 @@
       "name": "Menú Desayuno",
       "catalogType": "Almuerzo",
       "itemQuantity": 122,
-      "description": "Catalogo de Almuerzo",
+      "description": "Catalogo de Almuerzo4",
       "specialRequestCombo": true,
       "specialRequestProduct": false,
       "items": [
@@ -149,7 +149,7 @@
       "name": "Menú Cena",
       "catalogType": "Cena",
       "itemQuantity": 10,
-      "description": "Catalogo de Almuerzo",
+      "description": "Catalogo de Almuerzo5",
       "specialRequestCombo": true,
       "specialRequestProduct": false,
       "items": [
@@ -185,7 +185,7 @@
       "name": "Menú Cena s",
       "catalogType": "Cena",
       "itemQuantity": 10,
-      "description": "Catalogo de Almuerzo",
+      "description": "Catalogo de Almuerzo6",
       "specialRequestCombo": true,
       "specialRequestProduct": false,
       "items": [
