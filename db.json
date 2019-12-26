@@ -217,7 +217,18 @@
       ]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "catalogType": [
+    {
+    "id": 0,
+    "name": "Desayuno"
+    },
+    {
+    "id": 1,
+    "name": "Almuerzo"
+    },
+    {
+    "id": 2,
+    "name": "Cena"
+    }
+  ]
 }
