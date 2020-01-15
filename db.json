@@ -230,5 +230,33 @@
     "id": 2,
     "name": "Cena"
     }
+  ],
+  "items": [
+    {
+          "id": 1,
+          "name": "Pollo Frito",
+          "itemType": "product"
+        },
+        {
+          "id": 2,
+          "name": "Pollo Guisado",
+          "itemType": "product"
+        },
+        {
+          "id": 3,
+          "name": "Pechuga",
+          "itemType": "product"
+        },
+        {
+          "id": 4,
+          "name": "Plato del Día",
+          "itemType": "combo"
+        },
+        {
+          "id": 5,
+          "name": "Combo 1",
+          "itemType": "combo"
+        }
   ]
+  
 }
