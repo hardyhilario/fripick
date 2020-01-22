@@ -12,27 +12,27 @@
         {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
       ]
     },
@@ -48,27 +48,27 @@
         {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
       ]
     },
@@ -84,27 +84,27 @@
         {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
       ]
     },
@@ -120,27 +120,27 @@
         {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
       ]
     },
@@ -156,27 +156,27 @@
         {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
       ]
     },
@@ -192,27 +192,27 @@
         {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
       ]
     }
@@ -235,27 +235,27 @@
     {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": "product"
+          "itemType": 0
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": "combo"
+          "itemType": 1
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": "combo"
+          "itemType": 1
         }
   ]
   
