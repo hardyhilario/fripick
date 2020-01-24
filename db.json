@@ -286,5 +286,43 @@
     "id": 2,
     "name": "Postre"
     }
-  ]  
+  ],
+   "attribute": [
+    {
+    "id": 0,
+    "name": "Color"
+    },
+    {
+    "id": 1,
+    "name": "Tamaño"
+    }
+  ],
+   "specialRequest": [
+    {
+    "id": 0,
+    "name": "Sin Cebolla"
+    },
+    {
+    "id": 1,
+    "name": "Sin Tomate"
+    }
+  ],
+   "taxes": [
+    {
+    "id": 0,
+    "name": "Sin ITBIS"
+    },
+    {
+    "id": 1,
+    "name": "16%"
+    },
+    {
+    "id": 2,
+    "name": "E 8%"
+    },
+    {
+    "id": 3,
+    "name": "E 11%"
+    }
+  ] 
 }
