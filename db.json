@@ -235,27 +235,42 @@
     {
           "id": 1,
           "name": "Pollo Frito",
-          "itemType": 0
+          "itemType": 0,
+          "sku": 2581,
+          "price": "RD$ 150.00",
+          "category": "Bebida"
         },
         {
           "id": 2,
           "name": "Pollo Guisado",
-          "itemType": 0
+          "itemType": 0,
+          "sku": 2581,
+          "price": "RD$ 150.00",
+          "category": "Bebida"
         },
         {
           "id": 3,
           "name": "Pechuga",
-          "itemType": 0
+          "itemType": 0,
+          "sku": 2581,
+          "price": "RD$ 150.00",
+          "category": "Bebida"
         },
         {
           "id": 4,
           "name": "Plato del Día",
-          "itemType": 1
+          "itemType": 1,
+          "sku": 2581,
+          "price": "RD$ 150.00",
+          "category": "Bebida"
         },
         {
           "id": 5,
           "name": "Combo 1",
-          "itemType": 1
+          "itemType": 1,
+          "sku": 2581,
+          "price": "RD$ 150.00",
+          "category": "Bebida"
         }
   ]
   
