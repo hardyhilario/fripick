@@ -273,7 +273,6 @@
           "category": "Bebida"
         }
   ],
-  
   "categories": [
     {
     "id": 0,
@@ -287,6 +286,5 @@
     "id": 2,
     "name": "Postre"
     }
-  ],
-  
+  ]  
 }
