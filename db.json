@@ -272,6 +272,21 @@
           "price": "RD$ 150.00",
           "category": "Bebida"
         }
-  ]
+  ],
+  
+  "categories": [
+    {
+    "id": 0,
+    "name": "Bebida"
+    },
+    {
+    "id": 1,
+    "name": "Guarnición"
+    },
+    {
+    "id": 2,
+    "name": "Postre"
+    }
+  ],
   
 }
